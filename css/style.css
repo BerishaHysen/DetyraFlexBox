@@ -125,7 +125,7 @@ html, body {
    width: 60px;
    margin-bottom: 20px;
    color: rgb(89, 137, 226);
-   background-color: rgb(89, 137, 226);
+
 }
 
 .pad-3 {
@@ -173,7 +173,7 @@ html, body {
    width: 100%;
    background-color: #fff;
    text-align: center;
-   padding: 20px 320px;
+   padding: 50px 320px;
 }
 
 .business-3 .elements {
@@ -248,7 +248,7 @@ html, body {
    display: flex;
    position: relative;
 }
-.elements img {
+.team .elements img {
    
    width: 100px;
    height: 100px;
